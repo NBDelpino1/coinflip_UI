@@ -34,7 +34,3 @@ Please see bootcampspot-v2.com
 ----------
 
 
-| Week | Career Content| Career Lesson | Delivery Method | Homework|
-| :--: | :----------------------------------------| :------------:| :-------------: |:----------------------------------------------------| 
-| 1    | Setting Expectations for Career Services | 1             | In class        | Sign the Student Expectations Document via Docusign |
-| 1    | Setting Expectations for Career Services | 1             | In class        | Sign the Student Expectations Document via Docusign |
