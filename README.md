@@ -1,2 +1,2 @@
-### Mock up interface. See Sketch file for individual assets.
-![coin_flip_sketch_mock_ups](https://user-images.githubusercontent.com/18251657/39906323-eb761ca2-54af-11e8-9b7d-aad4317feb4b.png)
+#### Mock up interface. See Sketch file for individual assets.
+![mockups](https://user-images.githubusercontent.com/18251657/39907024-35eea8cc-54b4-11e8-96e9-52a82c335a6b.png)
