@@ -1,3 +1,2 @@
-#### Mock up interface. Pushed in button effect and custom icons.See Sketch file for individual assets.
-![mockups](https://user-images.githubusercontent.com/18251657/39907024-35eea8cc-54b4-11e8-96e9-52a82c335a6b.png)
-
+![2](https://user-images.githubusercontent.com/18251657/39953337-f8c349a2-5577-11e8-946a-2dfdf809c4a3.png)
+![1](https://user-images.githubusercontent.com/18251657/39953338-fc09e76a-5577-11e8-959b-3ddc0a69c03e.png)
