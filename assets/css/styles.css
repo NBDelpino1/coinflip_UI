@@ -1,0 +1,58 @@
+html {
+    height:100%;
+}
+
+body {
+    background-repeat: no-repeat;
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(to bottom, #4099C3, #283048);
+}
+
+#coin {
+    margin: auto;
+    position: absolute;
+    top: -20%; left: 0; bottom: 0; right: 0;
+}
+
+#button {
+    margin: auto;
+    position: absolute;
+    top: 70%; left: 0; bottom: 0; right: 0;
+}
+
+.div1, .div2, .div3 {
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to bottom, #3e8db5, #315b7b);
+    width: 26.66%;
+    height: 100px;
+    float:left;
+    margin-left:5%;
+    border-radius:10px;
+    border-bottom: 2px solid #2E4966;
+}
+
+h2{
+    vertical-align:middle;
+    text-align:center;
+    color: #FFFFFF;
+    margin-top:17px;
+    margin-bottom:0;
+}
+
+h1{
+    vertical-align:middle;
+    text-align:center;
+    color: #FFFFFF;
+    margin-top:5px;
+    margin-bottom:17px;
+    color:#0293B7
+    font-weight:lighter;
+}
+
+#static-coin {
+    margin: auto;
+    position: absolute;
+    top: -20%; left: 0; bottom: 0; right: 0;
+}
+
