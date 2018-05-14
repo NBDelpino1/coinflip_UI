@@ -35,7 +35,7 @@ function coinToss (){
 
         //toggle button
 
-        document.getElementById("button").src ="assets/images/btn-out.png";
+        document.getElementById("button").src ="assets/images/btn-out-new.png";
 
         //calculate then display result - matching coin and count
 
