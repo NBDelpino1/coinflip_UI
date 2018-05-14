@@ -8,10 +8,9 @@ body {
     background: linear-gradient(to bottom, #4099C3, #283048);
 }
 
-p{
+h2{
     vertical-align:middle;
     text-align:center;
-    font-weight:lighter;
     color: #FFFFFF;
     margin-top:23px;
     margin-bottom:5px;
