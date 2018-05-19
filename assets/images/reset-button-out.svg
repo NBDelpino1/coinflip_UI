@@ -1,0 +1,36 @@
+
+<svg width="84px" height="51px" viewBox="0 0 84 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#325D7D" offset="0%"></stop>
+            <stop stop-color="#29324A" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="83.3300018" height="50" rx="25"></rect>
+        <filter x="-0.6%" y="-1.0%" width="101.2%" height="104.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201709692 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-7.4%" y="-10.7%" width="114.7%" height="128.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-32">
+            <g id="Rectangle-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="Group-24" filter="url(#filter-4)" transform="translate(25.000000, 17.000000)">
+                <polygon id="Triangle-2" fill="#354666" points="21 3.5 12 7 12 0"></polygon>
+                <path d="M22.8825914,4 C24.3965704,4 25.9105493,4 27.4245283,4 C31.056061,4 34,6.23857625 34,9 C34,11.7614237 31.056061,14 27.4245283,14 L6.5754717,14 C2.94393896,14 0,11.7614237 0,9 C0,6.23857625 2.94393896,4 6.5754717,4 L12.4446282,4" id="Rectangle-3" stroke="#354666" stroke-width="2.75"></path>
+            </g>
+        </g>
+    </g>
+</svg>

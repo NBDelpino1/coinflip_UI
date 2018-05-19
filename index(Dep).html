@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Coin-Flip</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="assets/css/appstyles(Dep).css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="display">
+            <h2>FLIPS</h2>
+            <h1 id="total-flips">0</h1>
+        </div>
+        <div class="display">
+            <h2>HEADS</h2>
+            <h1 id="heads">0</h1>
+        </div>
+        <div class="display">
+            <h2>TAILS</h2>
+            <h1 id="tails">0</h1>
+        </div>
+    </header>
+
+    <div>
+        <img src="assets/images/heads.png" id="static-coin">
+        <img src="assets/images/heads.png" id="flipping-coin">
+        <img src="" id = "coin">
+        <!-- RESET BUTTON -->
+        <img src="assets/images/reset-in.svg" id="reset-btn" onclick="restart()" >
+        <img src="assets/images/btn-out.svg" id="button" onclick="coinToss()">
+    </div>
+
+    <audio id="coinSound">
+        <source src="assets/audio/coinflip.mp3" type="audio/mpeg">
+    </audio>
+    <!-- JavaScript-->
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
+
+
+

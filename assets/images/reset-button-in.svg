@@ -1,0 +1,42 @@
+
+<svg width="84px" height="52px" viewBox="0 0 84 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#274861" offset="0%"></stop>
+            <stop stop-color="#2A334D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="83.3300018" height="50" rx="25"></rect>
+        <filter x="-0.6%" y="-3.0%" width="101.2%" height="106.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.286769701 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.12 0" type="matrix" in="shadowOffsetOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-7.6%" y="-3.8%" width="118.2%" height="130.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-33" transform="translate(0.000000, 1.000000)">
+            <g id="Rectangle-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="Group-26" filter="url(#filter-4)" transform="translate(23.000000, 18.000000)">
+                <polygon id="Triangle-2" fill="#485F8A" points="21.2924528 3.19090909 11.8679245 6.38181818 11.8679245 0"></polygon>
+                <path d="M22.8825914,3.30909091 C24.3965704,3.30909091 25.9105493,3.30909091 27.4245283,3.30909091 C31.056061,3.30909091 34,5.4784748 34,8.15454545 C34,10.8306161 31.056061,13 27.4245283,13 L6.5754717,13 C2.94393896,13 0,10.8306161 0,8.15454545 C0,5.4784748 2.94393896,3.30909091 6.5754717,3.30909091 L12.4446282,3.30909091" id="Rectangle-3" stroke="#485F8A" stroke-width="2.75"></path>
+            </g>
+        </g>
+    </g>
+</svg>
