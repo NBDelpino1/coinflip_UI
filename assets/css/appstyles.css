@@ -4,6 +4,7 @@ html,body {
     background: linear-gradient(to bottom, #4099C3, #283048);
     font-family: 'Anton', sans-serif;
     color: #29344C;
+    text-shadow: 2px 2px rgba(41, 52, 76, 0.22);
 }
 
 .coin-container{
@@ -30,4 +31,9 @@ html,body {
     from {transform: rotateX(0deg);}
     to {transform: rotateX(360deg);}
 }
+
+.count-text{
+    color: #f0f0f0;
+}
+
 

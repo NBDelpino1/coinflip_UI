@@ -1,16 +1,17 @@
 
+
 <svg width="250px" height="51px" viewBox="0 0 250 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#325D7D" offset="0%"></stop>
-            <stop stop-color="#29324A" offset="100%"></stop>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B4EC51" offset="0%"></stop>
+            <stop stop-color="#234F11" offset="100%"></stop>
         </linearGradient>
         <rect id="path-2" x="0" y="0" width="250" height="50" rx="25"></rect>
         <filter x="-0.2%" y="-1.0%" width="100.4%" height="104.0%" filterUnits="objectBoundingBox" id="filter-3">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201709692 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.169242527 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
         </filter>
         <filter x="-4.5%" y="-6.0%" width="109.1%" height="108.0%" filterUnits="objectBoundingBox" id="filter-4">
             <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -23,12 +24,14 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group-35">
-            <g id="Rectangle-4">
-                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
-                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
-            </g>
-            <g id="arrow-right" filter="url(#filter-4)" transform="translate(119.000000, 13.000000)" fill="#354666" fill-rule="nonzero">
-                <path d="M0.417083333,3.11750359 L6.76652778,12.7246413 L0.354444444,22.0356528 C-0.194027778,22.8700502 0.0290277778,23.9944046 0.855555556,24.548099 C1.67902778,25.104878 2.79736111,24.8796987 3.34583333,24.0468436 L10.4194444,13.7317791 C10.8227778,13.1241033 10.8258333,12.3313486 10.4225,11.7205882 L3.41152778,1.10939742 C2.86152778,0.273457676 1.74319444,0.0482783357 0.918194444,0.60197274 C0.397222222,0.953622669 0.117638889,1.52890961 0.117638889,2.11499283 C0.117638889,2.46201578 0.212361111,2.80903874 0.417083333,3.11750359 Z" id="Shape"></path>
+            <g id="Group-36">
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="arrow-right" filter="url(#filter-4)" transform="translate(119.000000, 13.000000)" fill="#354666" fill-rule="nonzero">
+                    <path d="M0.374337153,2.86983936 L6.92047356,12.6510571 L0.309757848,22.1307828 C-0.255704849,22.9802993 -0.0257395183,24.1250269 0.82639229,24.6887541 C1.67537389,25.2556219 2.82835075,25.0263624 3.39381345,24.1784161 L10.6865496,13.676444 C11.1023774,13.0577572 11.1055276,12.250638 10.6896998,11.6288107 L3.46154297,0.825346588 C2.89450516,-0.0257402635 1.7415283,-0.254999821 0.890971595,0.308727448 C0.353860788,0.666749223 0.0656165721,1.25246029 0.0656165721,1.84916324 C0.0656165721,2.20247421 0.163273082,2.55578517 0.374337153,2.86983936 Z" id="Shape"></path>
+                </g>
             </g>
         </g>
     </g>
